@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Acquisition test across]" parallel="tests">
+  <parameter name="product" value="i821"/>
+  <test name="Acquisition Scenario">
+    <classes>
+      <class name="com.formsdirectinc.functionaltests.apps.TestEngine">
+        <parameter name="flowname" value="Flow1"/>
+      </class> <!-- com.formsdirectinc.functionaltests.apps.TestEngine -->
+    </classes>
+  </test> <!-- Acquisition Scenario -->
+  <test name="Acquisition Scenario(failed)" parallel="tests">
+    <classes>
+      <class name="com.formsdirectinc.functionaltests.apps.TestEngine">
+        <parameter name="flowname" value="Flow1"/>
+        <methods>
+          <include name="start" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.formsdirectinc.functionaltests.apps.TestEngine -->
+    </classes>
+  </test> <!-- Acquisition Scenario(failed) -->
+</suite> <!-- Failed suite [Acquisition test across] -->

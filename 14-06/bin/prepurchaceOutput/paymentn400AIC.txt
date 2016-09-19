@@ -1,0 +1,32 @@
+Scripts Check
+PageTitle Check
+Footer Links Check
+Footer Disclaimer Check
+Footer Disclaimer Copy Check in https://www.us-immigration.com/payment/payment.do?application=n400
+Footer Disclaimer copy mismatched 
+From: 
+
+PRIVACY POLICYTERMS OF USEREFUND POLICYCONTACT US
+
+To:
+
+PRIVACY POLICYTERMS OF USEREFUND POLICYCONTACT
+Footer Disclaimer Copy Check in https://www.us-immigration.com/payment/payment.do?application=n400
+Footer Disclaimer copy mismatched 
+From: 
+
+† Refunds will only be issued if requested within ninety (90) days and before completed application is printed or e-filed. Exceptions and restrictions may apply; see our Refund Policy.
+
+To:
+
+† Refunds will only be issued if requested within thirty (30) days and before completed application is printed or e-filed. Exceptions and restrictions may apply; see our Refund Policy.
+PageLabel Check
+Product Description Check
+Product Cost Check
+Payment Decline Check
+
+===============================================
+Acquisition test across
+Total tests run: 1, Failures: 1, Skips: 0
+===============================================
+

@@ -1,0 +1,24 @@
+Scripts Check
+PageTitle Check
+Footer Disclaimer Check
+PageLabel Check
+Page Label Copy Check in https://www.fileright.com/payment/payment.do?application=n400
+Page Label Copy mismatched 
+From: 
+
+Billing Zip Code
+
+To:
+
+Billing Zipcode
+Product Description Check
+Product description in Payment page order summary section has been mismatched from  FileRight for Form N-400 Filing Package to U.S. Citizenship Filing Package
+Product Cost Check
+Payment Decline Check
+Cookie Check
+Paypal Check
+<<<<<<<<<<<<Product description in paypal<<<<<<<<<<<<<<
+Product description in Payment page order summary section has been mismatched from  FileRight for Form N-400 Filing Package to U.S. Citizenship Filing Package
+^^^^^^^^^^^^^^^^^^Product cost^^^^^^^^^^^^^^^^^^
+message sent successfully
+189============>>

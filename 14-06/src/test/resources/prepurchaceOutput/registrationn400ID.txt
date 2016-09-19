@@ -1,0 +1,7 @@
+Scripts Check
+PageTitle Check
+Footer Disclaimer Check
+PageLabel Check
+Cookie set test
+message sent successfully
+n400.ID.23.08.18.37.09@gmail.com

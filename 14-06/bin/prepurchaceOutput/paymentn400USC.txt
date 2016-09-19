@@ -1,0 +1,12 @@
+Scripts Check
+PageTitle Check
+Footer Disclaimer Check
+PageLabel Check
+Product Description Check
+Product description in Payment page order summary section has been mismatched from  Application for Naturalization  to Application for Naturalization
+Product Cost Check
+Payment Decline Check
+Cookie Check
+Paypal Check
+message sent successfully
+199============>>

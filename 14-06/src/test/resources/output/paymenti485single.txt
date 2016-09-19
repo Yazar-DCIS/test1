@@ -1,0 +1,31 @@
+---------Scripts------
+####PageTitle###
+!!!Link!!!
+Footer Link Copy Check in https://stage.us-immigration.com/payment/payment.do?application=i485principal
+Footer Link copy mismatched 
+From:
+
+ CONTACT
+
+To:
+
+CONTACT US
+******Disclaimer*******
+$$$$$$PageLabel$$$$$$$$
+>>>>>>>>>>>>>Product description<<<<<<<<<<<<<<<<<
+Product description in Payment page order summary section has been mismatched from  Register Permanent Residence or Adjust Status Application Package to Adjustment of Status Application Package
+^^^^^^^^^^^^^^^^^^Product cost^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++++++
+$220<--->
+<--->$319
+$220<--->
+<--->$319
+Product cost in Payment page order summary section has been mismatched from  $220 to $319
+Product Cost total in Payment page order summary section has been mismatched from  $220 to $319
+|||||||||Payment Decline|||||||||||||
+
+===============================================
+Acquisition test across
+Total tests run: 1, Failures: 1, Skips: 0
+===============================================
+

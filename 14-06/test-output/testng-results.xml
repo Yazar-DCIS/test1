@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><b>Executing the test for Payment for the product i821 and flow name as Flow1 in the site AIC<br><b>]]>
+    </line>
+    <line>
+      <![CDATA[Payment Page via Bookmarked user/ Payment Module test]]>
+    </line>
+    <line>
+      <![CDATA[The user 'mohamed.yazar@dcis.net' is valid in 'AIC']]>
+    </line>
+  </reporter-output>
+  <suite name="Acquisition test across" duration-ms="116778" started-at="2016-08-24T12:12:09Z" finished-at="2016-08-24T12:14:06Z">
+    <groups>
+    </groups>
+    <test name="Acquisition Scenario" duration-ms="116778" started-at="2016-08-24T12:12:09Z" finished-at="2016-08-24T12:14:06Z">
+      <class name="com.formsdirectinc.functionaltests.apps.TestEngine">
+        <test-method status="FAIL" signature="start(java.lang.String, java.lang.String)[pri:0, instance:com.formsdirectinc.functionaltests.apps.TestEngine@783e6358]" name="start" duration-ms="116758" started-at="2016-08-24T17:42:09Z" finished-at="2016-08-24T17:44:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[i821]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Flow1]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.io.FileNotFoundException">
+            <message>
+              <![CDATA[C:\DCIS\14-06\src\test\resources\prepurchaceOutput\paymentsuccess.txt (The system cannot find the file specified)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.io.FileNotFoundException: C:\DCIS\14-06\src\test\resources\prepurchaceOutput\paymentsuccess.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileReader.<init>(Unknown Source)
+	at com.formsdirectinc.functionaltests.tags.AcquisitionUtils.readFile(AcquisitionUtils.java:505)
+	at com.formsdirectinc.functionaltests.apps.payment.PaymentSuccess.PaymentSuccesstest(PaymentSuccess.java:110)
+	at com.formsdirectinc.functionaltests.apps.payment.Payment.test(Payment.java:328)
+	at com.formsdirectinc.functionaltests.apps.Step.executeNextStep(Step.java:29)
+	at com.formsdirectinc.functionaltests.apps.TestEngine.start(TestEngine.java:105)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.io.FileNotFoundException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><b>Executing the test for Payment for the product i821 and flow name as Flow1 in the site AIC<br><b>]]>
+            </line>
+            <line>
+              <![CDATA[Payment Page via Bookmarked user/ Payment Module test]]>
+            </line>
+            <line>
+              <![CDATA[The user 'mohamed.yazar@dcis.net' is valid in 'AIC']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- com.formsdirectinc.functionaltests.apps.TestEngine -->
+    </test> <!-- Acquisition Scenario -->
+  </suite> <!-- Acquisition test across -->
+</testng-results>

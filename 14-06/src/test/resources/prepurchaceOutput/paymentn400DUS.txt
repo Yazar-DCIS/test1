@@ -1,0 +1,25 @@
+Scripts Check
+PageTitle Check
+Footer Links Check
+Footer Link Copy Check in https://www.usimmigration.us/payment/payment.do?application=n400
+Footer Link copy mismatched 
+From:
+
+ CONTACT
+
+To:
+
+REFUND POLICY
+Footer Disclaimer Check
+PageLabel Check
+Product Description Check
+Product description in Payment page order summary section has been mismatched from  U.S. Citizenship Application to Application for Naturalization
+Product Cost Check
+Payment Decline Check
+Cookie Check
+Paypal Check
+<<<<<<<<<<<<Product description in paypal<<<<<<<<<<<<<<
+Product description in Payment page order summary section has been mismatched from  U.S. Citizenship Application to Application for Naturalization
+^^^^^^^^^^^^^^^^^^Product cost^^^^^^^^^^^^^^^^^^
+message sent successfully
+199============>>

@@ -1,0 +1,8 @@
+Scripts Check
+PageTitle Check
+Footer Links Check
+Footer Disclaimer Check
+PageLabel Check
+Cookie set test
+message sent successfully
+n400.DUS.23.08.18.40.02@gmail.com

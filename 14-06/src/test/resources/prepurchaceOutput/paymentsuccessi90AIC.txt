@@ -1,0 +1,18 @@
+paymentsuccess--->page
+i90product---->
+En--->
+Cost track success
+Scripts Check
+Page Title Check
+Footer Links Check
+Footer Disclaimer Check
+Footer Disclaimer Copy Check in https://www.us-immigration.com/payment/processccpayment.do
+Footer Disclaimer copy mismatched 
+From: 
+
+DISCLAIMER: This site does not contain or constitute legal advice. This site provides general information on some commonly encountered immigration matters only. The information on this site should not be relied on to reach any conclusions about any person's specific situation. No government agency sponsors or is affiliated with US-Immigration.com. US-Immigration.com is not a law firm. It does not substitute for the advice of a lawyer. We provide self-help services at a user's direction only. We do not provide legal advice, opinions or recommendations about any individual's specific legal rights, remedies, defenses, options or strategies. US-Immigration.com does not recommend or select forms, nor does it recommend or provide answers to specific questions on forms. Customer support will not answer legal questions. It is for technical and billing issues. Communications between US-Immigration.com and you are not protected by any privilege. The forms that can be completed online using US-Immigration.com can be obtained for free from the USCIS as blank forms with written instructions. Purchase price does not include government agency application or filing fees, if applicable. Your access to and use of this website, and any purchase you make from it, are subject to US-Immigration.com's Terms of Use. By using this site and/or making any purchase, you agree to the Terms of Use.
+
+To:
+
+DISCLAIMER: This site does not contain or constitute legal advice. This site provides general information on some commonly encountered immigration matters only. The information on this site should not be relied on to reach any conclusions about any person's specific situation. No government agency sponsors or is affiliated with US-Immigration.com. US-Immigration.com is not a law firm. It does not substitute for the advice of a lawyer. We provide self-help services at a user's direction only. We do not provide legal advice, opinions or recommendations about any individual's specific legal rights, remedies, defenses, options or strategies. US-Immigration.com does not recommend or select forms, nor does it recommend or provide answers to specific questions on forms. Customer support will not answer legal questions. It is for technical and billing issues. Communications between US-Immigration.com and you are not protectedby any privilege. The forms that can be completed online using US-Immigration.com can be obtained for free from the USCIS as blank forms withwritten instructions. Purchase price does not include government agency application or filing fees, if applicable. Your access to and use of this website, and any purchase you make from it, are subject to US-Immigration.com's Terms of Use. By using this site and/or making any purchase, you agree to the Terms of Use.
+message sent successfully

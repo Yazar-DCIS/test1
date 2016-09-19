@@ -1,0 +1,13 @@
+Scripts Check
+PageTitle Check
+Footer Disclaimer Check
+PageLabel Check
+Product Description Check
+Product Cost Check
+Payment Decline Check
+Cookie Check
+Paypal Check
+<<<<<<<<<<<<Product description in paypal<<<<<<<<<<<<<<
+^^^^^^^^^^^^^^^^^^Product cost^^^^^^^^^^^^^^^^^^
+message sent successfully
+199============>>

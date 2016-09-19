@@ -1,0 +1,35 @@
+---------Scripts------
+####PageTitle###
+!!!Link!!!
+Footer Link Copy Check in https://www.us-immigration.com/payment/payment.do?application=n400
+Footer Link copy mismatched 
+From:
+
+ CONTACT
+
+To:
+
+CONTACT US
+******Disclaimer*******
+$$$$$$PageLabel$$$$$$$$
+>>>>>>>>>>>>>Product description<<<<<<<<<<<<<<<<<
+^^^^^^^^^^^^^^^^^^Product cost^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++++++
+$199<--->
+<--->$199
+$199<--->
+<--->$199
+|||||||||Payment Decline|||||||||||||
+-~!Cookie!~-
+~~~~~~~~Paypal~~~~~~~~~~~~~~~
+<<<<<<<<<<<<Product description in paypal<<<<<<<<<<<<<<
+^^^^^^^^^^^^^^^^^^Product cost^^^^^^^^^^^^^^^^^^
+++++++++++++++++++++++++++++++++++++++++++++++
+199 USD<--->
+<--->Order Total - 199 USD plus USCIS Filing Fees
+199 USD<--->
+<--->199 USD
+Product Cost total in Payment page order summary section has been mismatched from  199 USD to Order Total - 199 USD plus USCIS Filing Fees
+199->->->
+message sent successfully
+199============>>
